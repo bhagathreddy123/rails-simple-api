@@ -1,24 +1,6 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+https://www.valentinog.com/blog/build-super-simple-api-ruby-rails/
 
-Things you may want to cover:
+curl localhost:3000/products
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+we can check in postman once entering above url.
